@@ -1,0 +1,1 @@
+A website used to take objective test. Admin can Upload Question Papers, Keys and Solutions. After the candidate submits the test, they will receive a copy of responses via email and the key and solutions will be visible only after submission.
